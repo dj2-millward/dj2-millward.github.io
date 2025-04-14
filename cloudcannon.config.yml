@@ -132,3 +132,5 @@ _structures:
     style: modal
 data_config: true
 timezone: Etc/UTC
+stylesheets:
+  - path: "assets/main.scss.liquid"
