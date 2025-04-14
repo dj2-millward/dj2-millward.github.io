@@ -1,6 +1,6 @@
 title: Dan Millward
 
-gem "github-pages", group: :jekyll_plugins
+
 
 plugins:
   - jekyll-bookshop
