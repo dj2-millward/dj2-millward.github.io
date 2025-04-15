@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Base page
+title: ScienceFutures
 description: Website Developer & Maintenance Engineer
 image: assets/images/pic11.jpg
 nav-menu: true
