@@ -1,7 +1,7 @@
 ---
-title: About
+title: ABOUT
 layout: page
-description: 'Creative thinker. Passion for code and design.<br />Always building, always learning.'
+description: "Creative thinker. Passion for code and design.<br />Always building, always learning."
 image: assets/images/pic02.jpg
 nav-menu: true
 ---

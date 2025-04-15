@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: PROJECTS
 layout: landing
-description: 'Tech support to full-stack builds.<br />Websites, apps, and hardware care.'
+description: "Real-world work and passion builds.<br />Apps, sites, fixes — all custom-made."
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
