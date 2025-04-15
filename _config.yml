@@ -2,16 +2,16 @@
 title: Dan 
 subtitle: Millward
 email: millward123@outlook.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Creative thinker. Passion for code and design.<br />Always building, always learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dj2-millward.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+# street_address: 1234 Somewhere Road
+city: Teignmouth
+state: Devon
+#zip_code: 55555
+country: United Kingdom
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,10 +26,10 @@ socials:
   GitLab:
   Google-Plus: 
   Instagram:
-  LinkedIn: 
+  LinkedIn: www.linkedin.com/in/djmillward 
   Twitter: 
   Facebook:
-  Slack:
+  Slack: 
 
 # build settings
 markdown: kramdown
