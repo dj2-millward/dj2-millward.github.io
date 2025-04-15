@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HOME
+title: HOMEE
 landing-title: "Hi, my name is Dan Millward"
 description: null
 image: null
