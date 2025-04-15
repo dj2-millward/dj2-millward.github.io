@@ -2,7 +2,7 @@
 title: About
 layout: page
 description: 'Creative thinker. Passion for code and design.<br />Always building, always learning.'
-image: assets/images/img02.jpg
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
